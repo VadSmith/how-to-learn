@@ -61,8 +61,8 @@
 }
 
 .header__link {
-  /* margin-left: 5px; */
   text-decoration: none;
+  color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -88,7 +88,7 @@
 .description {
   margin-top: 100px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .two-columns {
