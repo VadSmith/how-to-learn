@@ -1,0 +1,9 @@
+/* Высота строки 1.15, шрифта 24px, начертание шрифта нормальное */
+
+.khan__quote-author-subline {
+  margin: 10px 0 0;
+  /* margin-top: 10px; */
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+}
